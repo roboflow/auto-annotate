@@ -3,5 +3,6 @@
 
 env/
 venv/
+data/
 
 *.egg-info/
