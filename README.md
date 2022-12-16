@@ -23,6 +23,9 @@ pip install -e .
 
 ## 🐎 hit the ground running
 
+> **Warning**
+> Your `ROBOFLOW_API_KEY` is the secret. Do not commit it to your repository, especially if it is public.
+
 ```console
 export ROBOFLOW_API_KEY= ... 
 python -m a2.annotate \
