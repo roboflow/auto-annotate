@@ -19,6 +19,8 @@ cd auto-annotate
 # setup python environment and activate it
 python3 -m venv venv
 source venv/bin/activate
+# OR use the following code if you are using Windows
+.\venv\Script\activatte
 
 # install
 pip install -e .
